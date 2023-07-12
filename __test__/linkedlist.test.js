@@ -1,4 +1,4 @@
-const LinkedList = require('../lib/LinkedList');
+const LinkedList = require('../Example/lib/LinkedList');
 
 describe('LinkedList', () => {
   let linkedList;
